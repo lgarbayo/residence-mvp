@@ -1,4 +1,4 @@
-# SEED Algorithm: Socio-Economic and Environmental Distribution
+# SEED: Socio-Economic and Environmental Distribution
 
 > [!IMPORTANT]
 > 🏆 **Algoritmo Ganador**: Este proyecto ha sido galardonado con el **Excellence Award de Akademia Future Builders**, destacando por su precisión técnica y su impacto en la resolución de desafíos sociales reales.
@@ -110,6 +110,7 @@ El algoritmo requiere las siguientes variables por sección censal:
 ---
 
 © 2026 Proyecto Ganador del Excellence Award en Akademia Future Builders.
+
 
 
 
